@@ -2446,16 +2446,6 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		"Futura48"
-		{
-			"1"
-			{
-				"name"		"FuturaStd-Medium"
-				"tall"		"48"
-				"additive"	"0"
-				"antialias" "1"
-			}
-		}
 		"Futura60"
 		{
 			"1"
@@ -3024,6 +3014,16 @@ Scheme
 				"antialias"	"0"
 				"outline"   "0"
 				"additive"  "0"
+			}
+		}
+		"BlocksSharp64"
+		{
+			"1"
+			{
+				"name"		"Blocks"
+				"tall"		"64"
+				"additive"	"0"
+				"antialias" "0"
 			}
 		}
 	}
@@ -4504,8 +4504,14 @@ Scheme
 		}
 		"11"
 		{
-			"font" "resource/Custom Crosshairs.ttf"
-			"name" "Custom Crosshairs"			
+			"font" "resource/Blocks.ttf"
+			"name" "Blocks"
 		}
+		"12"
+		{
+			"font" "resource/Custom Crosshairs.ttf"
+			"name" "Custom Crosshairs"
+		}
+		
 	}
 }
