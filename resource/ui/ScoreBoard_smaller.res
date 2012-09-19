@@ -601,7 +601,7 @@
 		{
 			"ControlName"		"CExLabel"
 			"fieldName"		"DuelingLabel"
-			"font"			"Futura9"
+			"font"			"Futura11"
 			"fgcolor"		"OmpText"
 			"labelText"		"#TF_ScoreBoard_Dueling"
 			"textAlignment"		"center"
@@ -635,7 +635,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"LocalPlayerData"
-			"xpos"			"0"
+			"xpos"			"10"
 			"ypos"			"90"
 			"wide"			"80"
 			"tall"			"50"
@@ -696,7 +696,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"labelText"		"%score%"
-				"textAlignment"	"west"
+				"textAlignment"	"east"
 				"xpos"			"44"
 				"ypos"			"0"
 				"zpos"			"3"
@@ -707,6 +707,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"Futura24"
+				"fgcolor"		"OmpText"
 			}
 		}
 
@@ -714,7 +715,7 @@
 		{
 			"ControlName"		"EditablePanel"
 			"fieldName"		"OpponentData"
-			"xpos"			"0"
+			"xpos"			"10"
 			"ypos"			"176"
 			"wide"			"80"
 			"tall"			"50"
@@ -775,7 +776,7 @@
 				"ControlName"	"CExLabel"
 				"fieldName"		"Score"
 				"labelText"		"%score%"
-				"textAlignment"	"west"
+				"textAlignment"	"east"
 				"xpos"			"44"
 				"ypos"			"0"
 				"zpos"			"3"
@@ -786,6 +787,7 @@
 				"visible"		"1"
 				"enabled"		"1"
 				"font"			"Futura24"
+				"fgcolor"		"OmpText"
 			}
 		}
 	}
