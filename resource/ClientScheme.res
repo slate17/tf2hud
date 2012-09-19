@@ -2787,6 +2787,226 @@ Scheme
 				"antialias" "0"
 			}
 		}
+		"lCH1"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "1"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH2"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "2"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH3"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "3"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH4"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "4"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH5"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "5"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}	
+		}
+		"lCH6"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "6"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH7"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "7"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH8"
+		{
+			"1"
+			  {
+				"name"      "Custom Crosshairs"
+				"tall"      "8"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			  }
+		}
+		"lCH9"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "9"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH10"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "10"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH11"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "11"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH12"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "12"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH13"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "13"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH14"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "14"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH15"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "15"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH16"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "16"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH17"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "17"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH18"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "18"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH19"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "19"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
+		"lCH20"
+		{
+			"1"
+			{
+				"name"      "Custom Crosshairs"
+				"tall"      "20"
+				"antialias"	"0"
+				"outline"   "0"
+				"additive"  "0"
+			}
+		}
 	}
 
 	//
@@ -4262,6 +4482,11 @@ Scheme
 		{
 			"font" "resource/Symbol.ttf"
 			"name" "Symbol"
+		}
+		"11"
+		{
+			"font" "resource/Custom Crosshairs.ttf"
+			"name" "Custom Crosshairs"			
 		}
 	}
 }
