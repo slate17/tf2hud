@@ -1052,12 +1052,10 @@
 		"fieldName"				"HudTournament"
 		"visible"				"0"
 		"enabled"				"1"
-		"xpos"					"c-125"
-		"ypos"					"5"
-		"ypos_lodef"				"75"
-		"zpos"					"2"
-		"wide"					"250"
-		"tall"					"80"
+		"xpos"					"0"
+		"ypos"					"0"
+		"wide"					"f0"
+		"tall"					"50"
 	}
 
 	HudTournamentSetup

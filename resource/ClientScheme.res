@@ -22,6 +22,15 @@ Scheme
 		"OmpText"			"255 255 255 255"
 		"OmpShadow"			"30 30 30 255"
 		
+		SqBlack 	  	"0 0 0 255"
+		SqBlue 		    	"0 127 255 255"
+		SqCyan 		  	"0 255 255 255"
+		SqGreen 	  	"0 255 0 255"
+		SqGrey 		  	"31 31 31 255"
+		SqPink		   	"255 0 127 255"
+		SqRed     		"255 63 0 255"
+		SqTranspBlack		"0 0 0 153"			
+		
 		"OmpLightBG"		"30 30 30 125"
 		"OmpMediumBG"		"30 30 30 175"
 		"OmpDarkBG"			"30 30 30 225"
@@ -2433,6 +2442,16 @@ Scheme
 			{
 				"name"		"FuturaStd-Medium"
 				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"Futura48"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Medium"
+				"tall"		"48"
 				"additive"	"0"
 				"antialias" "1"
 			}
