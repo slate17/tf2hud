@@ -1,3 +1,13 @@
+My modifications:
+-----------------
+
+* http://sl8.eu/files/moddedomphud/chat.png
+* http://sl8.eu/files/moddedomphud/classselection.png
+* http://sl8.eu/files/moddedomphud/scoreboard.png
+* http://sl8.eu/files/moddedomphud/teamselection.png
+* http://sl8.eu/files/moddedomphud/tournament_mode.png
+* http://sl8.eu/files/moddedomphud/menu.png
+
 tf2hud
 ======
 
