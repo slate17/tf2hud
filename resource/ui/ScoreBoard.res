@@ -1430,7 +1430,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1444,7 +1444,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1458,7 +1458,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1472,7 +1472,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1486,7 +1486,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1500,7 +1500,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}
@@ -1514,7 +1514,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1528,7 +1528,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1542,7 +1542,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1556,7 +1556,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1570,7 +1570,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}	
@@ -1584,7 +1584,7 @@
 		"wide"        "5"
 		"tall"        "5"
 		"visible"     "0"
-		"visible_minmode"     "1"
+		//"visible_minmode"     "1"
 		"enabled"     "1"
 		"fillcolor"   "OmpSBSquares"
 	}
