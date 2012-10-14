@@ -40,43 +40,54 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpAmmoClip"
 		"xpos"			"0"
 		"ypos"			"0"
 		"zpos"			"5"
-		"wide"			"63"
+		"wide"			"70"
 		"tall"			"38"
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%Ammo%"
+		
+
+
+
+
+
 		
 	}		
 	"AmmoInClipShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"2"
 		"ypos"			"2"
 		"zpos"			"5"
-		"wide"			"63"
+		"wide"			"70"
 		"tall"			"38"
 		"visible"		"0"
 		"enabled"		"1"
 		"textAlignment"	"east"	
 		"labelText"		"%Ammo%"
 		
+
+
+
+
+
 	}						
 	"AmmoInReserve"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Futura32"
+		"font"			"Newtown24"
 		"fgcolor"		"OmpAmmoReserve"
-		"xpos"			"67"
+		"xpos"			"75"
 		"ypos"			"0"
 		"zpos"			"7"
 		"wide"			"64"
@@ -85,14 +96,20 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+		
+
+
+
+
+
 	}		
 	"AmmoInReserveShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Futura32"
+		"font"			"Newtown24"
 		"fgcolor"		"OmpShadow"
-		"xpos"			"68"
+		"xpos"			"76"
 		"ypos"			"1"
 		"zpos"			"7"
 		"wide"			"64"
@@ -101,12 +118,18 @@
 		"enabled"		"1"
 		"textAlignment"	"west"		
 		"labelText"		"%AmmoInReserve%"
+		
+
+
+
+
+
 	}									
 	"AmmoNoClip"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpAmmoClip"
 		"xpos"			"0"
 		"ypos"			"0"
@@ -118,12 +141,17 @@
 		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
+
+
+
+
+
 	}	
 	"AmmoNoClipShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpShadow"
 		"xpos"			"2"
 		"ypos"			"2"
@@ -135,5 +163,10 @@
 		"textAlignment"	"center"		
 		"labelText"		"%Ammo%"
 		
-	}									
+
+
+
+
+
+	}
 }

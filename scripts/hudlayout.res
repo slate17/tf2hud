@@ -20,6 +20,11 @@
 		"ypos"	"c100"
 		"wide"	"132"
 		"tall"	"40"
+		
+
+
+
+
 	}
 	
 	HudObjectiveStatus
@@ -44,10 +49,10 @@
 		"tall"	"60"
 		
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
+
 	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
+
 	}	
 
 	HudItemEffectMeter
@@ -56,9 +61,9 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+
 		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r50"	[$WIN32]
+
 		"xpos"			"r194"	[$X360]
 		"ypos"			"r74"	[$X360]
 		"wide"			"100"
@@ -76,6 +81,11 @@
 		"ypos"			"c88"
 		"wide"			"332"
 		"tall"			"52"
+		
+
+
+
+
 	}
 	
 	HudDemomanCharge
@@ -112,14 +122,14 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
+
 		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
+
 		"xpos"			"r112"	[$X360]
 		"ypos"			"r45"	[$X360]
 		"zpos"			"1"			// draw in front of ammo
 		"wide"			"60"
-		"wide_minmode"	"50"
+
 		"tall"			"8"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
@@ -181,10 +191,10 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"c100"
+		"xpos"					"c-100"
 		"ypos"					"c70"
-		"wide"					"132"
-		"tall"  				"24"
+		"wide"					"200"
+		"tall"  				"18"
 		"visible" 				"1"
 		"enabled" 				"1"
 		"PaintBackgroundType"	"2"
@@ -194,9 +204,9 @@
 	{
 		"fieldName"				"CHealthAccountPanel"
 		"xpos"					"76"
-		"xpos_minmode"			"61"
+
 		"ypos"					"r152"
-		"ypos_minmode"			"r134"
+
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -263,6 +273,7 @@
 		"enabled" 	"1"
 		"xpos"		"c-100"
 		"ypos"		"c100"
+		"zpos"		"1" // omp -- place above health cross.
 		"wide"	 	"200"
 		"tall"	 	"40"
 		"priority"	"35"
@@ -273,10 +284,8 @@
 		"fieldName" "BuildingStatus_Spy"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"	[$WIN32]
-		"ypos"		"0"	[$WIN32]
-		"xpos"		"32"	[$X360]
-		"ypos"		"16"	[$X360]		
+		"xpos"		"-15"
+		"ypos"		"0"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -288,12 +297,8 @@
 		"fieldName" "BuildingStatus_Engineer"
 		"visible"	"1"
 		"enabled"	"1"
-		"xpos"		"0"
-		"xpos_hidef"		"32"
-		"xpos_lodef"		"40"
+		"xpos"		"-15"
 		"ypos"		"0"
-		"ypos_hidef"		"16"
-		"ypos_lodef"		"25"
 		"wide"		"640"
 		"tall"		"480"
 		
@@ -453,7 +458,7 @@
 		"visible" "1"
 		"enabled" "1"
 		"xpos"	 "r640"
-		"ypos"	 "10"
+		"ypos"	 "20"
 		"wide"	 "630"
 		"tall"	 "470"
 

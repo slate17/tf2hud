@@ -209,6 +209,9 @@ event HudHealthBonusPulse
 	
 	Animate PlayerStatusHealthValue			FgColor		"OmpHPBuff"	Accel 0.0 0.0
 	Animate PlayerStatusHealthValueSpec		FgColor		"OmpSpecHPBuff"	Accel 0.0 0.0
+	
+	Animate	PlayerStatusHealthStatusImageBonus 	BgColor		"125 225 30 75"		Linear 0.0 0.2
+	Animate	PlayerStatusHealthStatusImageBonus 	BgColor		"OmpHPBuff"			Linear 0.2 0.4
 
 	RunEvent HudHealthBonusPulseLoop	0.4
 }
@@ -223,6 +226,8 @@ event HudHealthBonusPulseStop
 {
 	Animate PlayerStatusHealthValue			FgColor		"OmpHP"		Accel 0.0 0.0
 	Animate PlayerStatusHealthValueSpec		FgColor		"OmpSpecHP"		Accel 0.0 0.0
+	
+	Animate	PlayerStatusHealthStatusImageBonus	BgColor		"150 200 255 0"			Accel 	0.0 0.3
 
 	StopEvent HudHealthBonusPulse 0.0
 	StopEvent HudHealthBonusPulseLoop 0.0
@@ -239,6 +244,9 @@ event HudHealthDyingPulse
 	Animate PlayerStatusHealthValue			FgColor		"OmpHPLow"	Accel 0.0 0.0
 	Animate PlayerStatusHealthValueSpec		FgColor		"OmpSpecHPLow"	Accel 0.0 0.0
 	
+	Animate	PlayerStatusHealthStatusImageDanger 	BgColor		"255 75 75 75"			Linear 0.0 0.075
+	Animate	PlayerStatusHealthStatusImageDanger		BgColor		"255 0 0 255"			Linear 0.125 0.075
+	
 	RunEvent HudHealthDyingPulseLoop	0.25
 }
 
@@ -252,6 +260,8 @@ event HudHealthDyingPulseStop
 {
 	Animate PlayerStatusHealthValue			FgColor		"OmpHP"		Accel 0.0 0.0
 	Animate PlayerStatusHealthValueSpec		FgColor		"OmpSpecHP"		Accel 0.0 0.0
+	
+		Animate	PlayerStatusHealthStatusImageDanger	BgColor 		"255 75 75 0"			Accel 	0.0 0.0
 	
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0

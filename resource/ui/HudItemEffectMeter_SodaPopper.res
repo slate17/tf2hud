@@ -23,7 +23,7 @@
 		"wide"			"100"
 		"tall"			"50"
 		"visible"		"1"
-		"visible_minmode"	"0"
+
 		"enabled"		"1"
 		"image"			"../hud/misc_ammo_area_horiz3_blue"
 		"scaleImage"	"1"	
@@ -53,6 +53,9 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
+		
+
+
 	}
 
 	"ItemEffectMeter"
@@ -74,5 +77,8 @@
 		"brighttext"			"0"
 		"bgcolor_override"		"OmpDarkBG"
 		"fgcolor_override"		"255 255 255 255"
+		
+
+
 	}					
 }

@@ -37,6 +37,12 @@
 		"brighttext"	"0"
 		"font"			"FuturaHeavy56"
 		"fgcolor"		"OmpAmmoClip"
+		
+
+
+
+
+
 	}
 	"ChargeLabelShadow"
 	{
@@ -58,6 +64,12 @@
 		"brighttext"	"0"
 		"font"			"FuturaHeavy56"
 		"fgcolor"		"OmpShadow"
+		
+
+
+
+
+
 	}
 	
 	"ChargeMeterLabel"
@@ -80,6 +92,10 @@
 		"brighttext"			"0"
 		"font"					"Futura7"
 		"fgcolor_override"		"OmpMeterLabel"
+		
+
+
+
 	}
 	
 	"ChargeMeter"
@@ -101,6 +117,10 @@
 		"brighttext"	"0"
 		"bgcolor_override"	"OmpDarkBG"
 		"fgcolor_override"	"255 255 255 255"
+		
+
+
+
 	}		
 	
 	"HealthClusterIcon"
@@ -112,7 +132,7 @@
 		"wide"			"36"
 		"tall"			"36"
 		"visible"		"1"
-		"visible_minmode"		"0"
+
 		"enabled"		"1"
 		"image"			"../hud/ico_health_cluster"
 		"scaleImage"	"1"	

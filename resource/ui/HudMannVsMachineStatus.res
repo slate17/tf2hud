@@ -9,7 +9,6 @@
 		"zpos"				"0"
 		"wide"				"400"
 		"tall"				"67"
-		"ypos_minmode"		"-7"
 		"visible"			"1"
 		"enabled"			"1"
 	}
@@ -49,6 +48,18 @@
 		"ControlName"		"CCurrencyStatusPanel"
 		"fieldName"			"CurrencyStatusPanel"
 		"xpos"				"10"
+		"ypos"				"r30"
+		"wide"				"100"
+		"tall"				"20"
+		"visible" 			"1"
+		"enabled" 			"1"
+	}
+	
+	"InWorldCurrencyPanel"
+	{
+		"ControlName"		"CInWorldCurrencyStatus"
+		"fieldName"			"InWorldCurrencyPanel"
+		"xpos"				"120"
 		"ypos"				"r30"
 		"wide"				"100"
 		"tall"				"20"

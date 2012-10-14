@@ -22,15 +22,6 @@ Scheme
 		"OmpText"			"255 255 255 255"
 		"OmpShadow"			"30 30 30 255"
 		
-		SqBlack 	  	"0 0 0 255"
-		SqBlue 		    	"0 127 255 255"
-		SqCyan 		  	"0 255 255 255"
-		SqGreen 	  	"0 255 0 255"
-		SqGrey 		  	"31 31 31 255"
-		SqPink		   	"255 0 127 255"
-		SqRed     		"255 63 0 255"
-		SqTranspBlack		"0 0 0 153"			
-		
 		"OmpLightBG"		"30 30 30 125"
 		"OmpMediumBG"		"30 30 30 175"
 		"OmpDarkBG"			"30 30 30 225"
@@ -40,13 +31,14 @@ Scheme
 		
 		"OmpHP"				"255 255 255 255"
 		"OmpHPBuff"			"125 225 30 255"
-		"OmpHPLow"			"255 200 30 255"
+		"OmpHPBonus"		"75 175 255 255"
+		"OmpHPLow"			"255 30 30 255"
 		"OmpSpecHP"			"255 255 255 255"
 		"OmpSpecHPBuff"		"125 225 30 255"
 		"OmpSpecHPLow"		"255 200 30 255"
 		
-		"OmpAmmoClip"		"30 225 225 255"
-		"OmpAmmoReserve"	"255 30 255 255"
+		"OmpAmmoClip"		"255 255 255 255"
+		"OmpAmmoReserve"	"255 100 255 255"
 		"OmpAmmoMetal"		"125 225 30 255"
 		"OmpDemoPipes"		"255 255 255 255"
 
@@ -64,6 +56,8 @@ Scheme
 		
 		"OmpChargeAmount"	"30 225 225 255"
 		"OmpRespawnTime"	"255 30 255 255"
+		
+		"OmpSBSquares"		"0 255 0 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"
@@ -2486,6 +2480,16 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"FuturaHeavy36"
+		{
+			"1"
+			{
+				"name"		"FuturaStd-Heavy"
+				"tall"		"36"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		"FuturaHeavy56"
 		{
 			"1"
@@ -2796,226 +2800,6 @@ Scheme
 				"antialias" "0"
 			}
 		}
-		"lCH1"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "1"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH2"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "2"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH3"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "3"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH4"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "4"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH5"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "5"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}	
-		}
-		"lCH6"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "6"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH7"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "7"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH8"
-		{
-			"1"
-			  {
-				"name"      "Custom Crosshairs"
-				"tall"      "8"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			  }
-		}
-		"lCH9"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "9"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH10"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "10"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH11"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "11"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH12"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "12"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH13"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "13"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH14"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "14"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH15"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "15"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH16"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "16"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH17"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "17"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH18"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "18"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH19"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "19"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
-		"lCH20"
-		{
-			"1"
-			{
-				"name"      "Custom Crosshairs"
-				"tall"      "20"
-				"antialias"	"0"
-				"outline"   "0"
-				"additive"  "0"
-			}
-		}
 		"BlocksSharp64"
 		{
 			"1"
@@ -3024,6 +2808,298 @@ Scheme
 				"tall"		"64"
 				"additive"	"0"
 				"antialias" "0"
+			}
+		}
+		"lCH1"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"1"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH2"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"2"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH3"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"3"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH4"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"4"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH5"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"5"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}	
+		}
+		"lCH6"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"6"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH7"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"7"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH8"
+		{
+			"1"
+			  {
+				"name"		"Custom Crosshairs"
+				"tall"		"8"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			  }
+		}
+		"lCH9"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"9"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH10"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"10"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH11"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"11"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH12"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"12"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH13"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"13"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH14"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"14"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH15"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"15"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH16"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"16"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH17"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"17"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH18"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"18"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH19"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"19"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		"lCH20"
+		{
+			"1"
+			{
+				"name"		"Custom Crosshairs"
+				"tall"		"20"
+				"antialias"	"0"
+				"outline"	"0"
+				"additive"	"0"
+			}
+		}
+		newtown14
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"14"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown16
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown16Outline
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"16"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		newtown18
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown18Outline
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+				"outline"	"1"
+			}
+		}
+		newtown24
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"24"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown72
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"72"
+				"additive"	"0"
+				"antialias" "1"
 			}
 		}
 	}
@@ -4512,6 +4588,10 @@ Scheme
 			"font" "resource/Custom Crosshairs.ttf"
 			"name" "Custom Crosshairs"
 		}
-		
+		"13"
+		{
+			"font" "resource/newtown.ttf"
+			"name" "Newtown"
+		}
 	}
 }

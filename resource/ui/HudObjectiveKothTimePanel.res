@@ -68,9 +68,9 @@
 		"ypos"				"9999"
 		"zpos"				"1"
 		"wide"				"78"
-		"wide_minmode"		"37"
+
 		"tall"				"33"
-		"tall_minmode"		"21"
+
 		"visible"			"0"
 		"enabled"			"1"
 		"image"				"../hud/objectives_timepanel_active_bg"	

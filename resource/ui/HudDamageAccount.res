@@ -27,6 +27,12 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%metal%"
+		
+
+
+
+
+
 	}
 	"CDamageAccountValueShadow"
 	{
@@ -43,5 +49,11 @@
 		"enabled"		"1"
 		"textAlignment"	"center"	
 		"labelText"		"%metal%"
+		
+
+
+
+
+
 	}
 }

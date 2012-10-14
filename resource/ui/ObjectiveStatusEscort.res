@@ -452,9 +452,9 @@
 			"ypos"				"9999"		
 			"zpos"				"20"
 			"wide"				"100"
-			"wide_minmode"			"65"			
+
 			"tall"				"65"
-			"tall_minmode"			"42"			
+
 			"visible"			"0"
 			"enabled"			"1"
 			
@@ -474,9 +474,9 @@
 				"ypos"				"0"
 				"zpos"				"0"
 				"wide"				"54"
-				"wide_minmode"			"35"				
+
 				"tall"				"65"
-				"tall_minmode"			"42"
+
 				"visible"			"1"
 				"enabled"			"1"
 				"scaleImage"		"1"
@@ -497,15 +497,15 @@
 				"ControlName"		"Label"
 				"fieldName"			"ProgressText"
 				"font"				"DefaultSmall"
-				"font_minmode"			"DefaultVerySmall"
+
 				"xpos"				"0"
 				"ypos"				"8"
-				"ypos_minmode"			"3"
+
 				"zpos"				"23"
 				"wide"				"54"
-				"wide_minmode"			"35"
+
 				"tall"				"40"
-				"tall_minmode"			"28"
+
 				"autoResize"		"0"
 				"pinCorner"			"0"
 				"visible"			"0"
@@ -531,12 +531,12 @@
 				"fieldName"			"Blocked"
 				"xpos"				"2"
 				"ypos"				"3"
-				"ypos_minmode"			"2"	
+
 				"zpos"				"1"
 				"wide"				"50"
-				"wide_minmode"			"31"
+
 				"tall"				"50"
-				"tall_minmode"			"31"
+
 				"visible"			"1"
 				"enabled"			"1"
 				"scaleImage"		"1"
@@ -557,14 +557,14 @@
 				"ControlName"	"ImagePanel"
 				"fieldName"		"Capping"	
 				"xpos"			"12"
-				"xpos_minmode"		"8"
+
 				"ypos"			"13"
-				"ypos_minmode"		"8"
+
 				"zpos"			"1"
 				"wide"			"30"
-				"wide_minmode"		"20"
+
 				"tall"			"30"
-				"tall_minmode"		"20"
+
 				"autoResize"	"0"
 				"pinCorner"		"0"
 				"visible"		"0"
