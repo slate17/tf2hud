@@ -3092,6 +3092,36 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		newtown40
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"40"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown50
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"50"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		newtown60
+		{
+			"1"
+			{
+				"name"		"Newtown"
+				"tall"		"60"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
 		newtown72
 		{
 			"1"

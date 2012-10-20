@@ -35,7 +35,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpAmmoClip"
 		
 
@@ -62,7 +62,7 @@
 		"textAlignment"	"center"
 		"dulltext"		"0"
 		"brighttext"	"0"
-		"font"			"FuturaHeavy56"
+		"font"			"Newtown72"
 		"fgcolor"		"OmpShadow"
 		
 

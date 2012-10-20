@@ -8,7 +8,7 @@
 		"enabled" 		        "1"
 		"xpos"			          "2"
 		"ypos"			          "305"
-		"wide"	 		          "200"
+		"wide"	 		          "160"
 		"tall"	 		          "80"
 		"PaintBackgroundType"	"2"
 	}
@@ -21,7 +21,7 @@
 		"enabled" 		        "1"
 		"xpos"			          "5"
 		"ypos"			          "395"
-		"wide"	 		          "190"
+		"wide"	 		          "150"
 		"tall"	 		          "2"
 		"PaintBackgroundType"	"0"
 	}
@@ -52,7 +52,7 @@
 		"fieldName"		        "HudChatHistory"
 		"xpos"			          "5"
 		"ypos"			          "5"
-		"wide"	 		          "190"
+		"wide"	 		          "150"
 		"tall"			          "75"
 		"wrap"			          "1"
 		"autoResize"		      "1"
